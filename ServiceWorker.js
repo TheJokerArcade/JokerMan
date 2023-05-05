@@ -1,4 +1,4 @@
-const cacheName = "The Joker-JokerMan-1.0.0.3";
+const cacheName = "The Joker-JokerMan-1.0.0.4";
 const contentToCache = [
     "Build/Joker-JokerMan_UnityBuild.loader.js",
     "Build/Joker-JokerMan_UnityBuild.framework.js",
